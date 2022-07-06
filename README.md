@@ -1,2 +1,2 @@
-# news-app-practice
+# navbar-react-practice
 Created with CodeSandbox
